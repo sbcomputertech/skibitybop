@@ -1,0 +1,8 @@
+{
+  "name": "skibity",
+  "cmdPrefix": ".",
+  "commands": {
+    "introduce": {"arguments":0},
+    "math": {"arguments":1}
+  }
+}
