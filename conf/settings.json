@@ -3,6 +3,6 @@
   "cmdPrefix": ".",
   "commands": {
     "introduce": {"arguments":0},
-    "math": {"arguments":1}
+    "math": {"arguments":2}
   }
 }

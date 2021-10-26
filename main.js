@@ -7,7 +7,7 @@ cci.init(settings);
 const logConfiguration = {
     'transports': [
         new winston.transports.File({
-          filename: 'logs/example.log'
+          filename: 'logs/main.skiblog'
         })
     ]
 };
